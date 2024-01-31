@@ -1,1 +1,1 @@
-> Note: The Makefiles are targeted towards Linux platforms.
+> Note: The Makefile builds are targeted towards Linux platforms.
